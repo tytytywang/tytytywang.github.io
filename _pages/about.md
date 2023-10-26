@@ -11,7 +11,7 @@ Hello! I'm Tongyan, a first-year PhD student in the Department of Computer Graph
 
 Prior to my journey at Purdue, I was fortunate to work with Dr. Jen Mankoff in the Make4all lab at UW CSE. During this time, I delved into the fascinating realm of textile fabrication, with a focus on machine knitting.
 
-I received my M.S. in Industrial Systems & Engineering at University of Washington (UW) and my B.Eng. in Material Science & Engineering at Peking University.
+I received my M.S. in Industrial Systems & Engineering at the University of Washington (UW) and my B.Eng. in Material Science & Engineering at Peking University.
 
 News
 ======
