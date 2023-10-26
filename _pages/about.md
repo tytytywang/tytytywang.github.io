@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I'm Tongyan, a first-year PhD student in the Department of Computer Graphics & Technology at Purdue University, advised by Dr. Liang He in the DE4M lab. My research interests lie at the intersection of **digital fabrication** and **accessibility**. Specifically, I'm dedicated to developing generative design tools that enable the fabrication of customized and accessible artifacts. 
+Hello! I'm Tongyan, a first-year PhD student in the Department of Computer Graphics Technology at Purdue University, advised by Dr. Liang He in the DE4M lab. My research interests lie at the intersection of **digital fabrication** and **accessibility**. Specifically, I'm dedicated to developing generative design tools that enable the fabrication of customized and accessible artifacts. 
 
 Prior to my journey at Purdue, I was fortunate to work with Dr. Jen Mankoff in the Make4all lab at UW CSE. During this time, I delved into the fascinating realm of textile fabrication, with a focus on machine knitting.
 
