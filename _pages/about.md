@@ -15,7 +15,7 @@ I received my M.S. in Industrial Systems & Engineering at the University of Wash
 
 News
 ======
-+ 10/2023: I will attend UIST 2023 in San Francisco. Come check our paper [KnitScript: A Domain-Specific Scripting Language for Advanced Machine Knitting](https://dl.acm.org/doi/10.1145/3586183.3606789).
++ 10/2023: I will attend UIST 2023 in San Francisco. Come check out our paper [KnitScript: A Domain-Specific Scripting Language for Advanced Machine Knitting](https://dl.acm.org/doi/10.1145/3586183.3606789).
 + 08/2023: I joined [DE4M lab](https://www.de4m.xyz) at Purdue CGT as a PhD student.
 
 Publications
@@ -29,6 +29,9 @@ Publications
   * 
   **Tongyan Wang**, Jennifer Mankoff, and Megan Hofmann. 2022. [Fabricating Accessible Designs with Knitting Machines](https://dl.acm.org/doi/pdf/10.1145/3559400.3565584). In Proceedings of the 7th Annual ACM Symposium on Computational Fabrication (SCF '22). Association for Computing Machinery, New York, NY, USA, Article 25, 1–3. 
 
+Services
+======
++ Reviewer for CHI 2024.
 
 <!-- Getting started
 ======
