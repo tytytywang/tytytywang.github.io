@@ -1,8 +1,8 @@
----
+<!-- ---
 title: "Knitting Jacquard"
 excerpt: "I designed a pipeline that enables the automatic fabrication of knitted Jacquard textile <br/><img src='/images/dora-jacquard.png'>"
 collection: portfolio
----
+--- -->
 
 <!-- <!DOCTYPE html>
 <html lang="en">
