@@ -1,3 +1,4 @@
+
 ---
 permalink: /
 title: "Tongyan Wang (she/her)"
@@ -7,32 +8,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I'm Tongyan, a first-year PhD student in the Department of Computer Graphics Technology at Purdue University. My research interests lie at the intersection of **digital fabrication** and **accessibility**. 
-<!-- Specifically, I'm dedicated to developing generative design tools that enable the fabrication of customized and accessible artifacts.  -->
+The website is temporatily down for upragde. See you soon!
 
-Prior to my journey at Purdue, I was fortunate to work with Dr. Jen Mankoff in the Make4all lab at UW CSE. During this time, I delved into the fascinating realm of textile fabrication, with a focus on machine knitting.
 
-I received my M.S. in Industrial Systems & Engineering at the University of Washington (UW) and my B.Eng. in Material Science & Engineering at Peking University.
-
-News
-======
-+ 10/2023: I attended UIST 2023 in San Francisco. Come check out our paper [KnitScript: A Domain-Specific Scripting Language for Advanced Machine Knitting](https://dl.acm.org/doi/10.1145/3586183.3606789).
-<!-- + 08/2023: I joined [DE4M lab](https://www.de4m.xyz) at Purdue CGT as a PhD student.  -->
-
-Publications
-======
-+ **Full Paper**
-  <!-- [KnitScript: A Domain-Specific Scripting Language for Advanced Machine Knitting](https://dl.acm.org/doi/10.1145/3586183.3606789) -->
-  * Megan Hofmann, Lea Albaugh, **Tongyan Wang**, Jennifer Mankoff, and Scott E Hudson. 2023. [KnitScript: A Domain-Specific Scripting Language for Advanced Machine Knitting](https://dl.acm.org/doi/10.1145/3586183.3606789). In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST '23). Association for Computing Machinery, New York, NY, USA, Article 21, 1–21.
-
-+ **Poster**
-  <!-- [Fabricating Accessible Designs with Knitting Machines](https://dl.acm.org/doi/pdf/10.1145/3559400.3565584) -->
-  * 
-  **Tongyan Wang**, Jennifer Mankoff, and Megan Hofmann. 2022. [Fabricating Accessible Designs with Knitting Machines](https://dl.acm.org/doi/pdf/10.1145/3559400.3565584). In Proceedings of the 7th Annual ACM Symposium on Computational Fabrication (SCF '22). Association for Computing Machinery, New York, NY, USA, Article 25, 1–3. 
-
-Services
-======
-+ Reviewer for CHI 2024.
 
 <!-- Getting started
 ======
