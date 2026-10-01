@@ -282,6 +282,86 @@
             text-decoration: underline;
         }
 
+        .experience-list {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+
+        .experience-item {
+            display: flex;
+            align-items: center;
+            border: 1px solid #eee;
+            border-radius: 8px;
+            overflow: hidden;
+            background-color: white;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 1.5rem;
+            gap: 1.5rem;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .experience-item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .experience-logo {
+            flex-shrink: 0;
+            width: 140px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .experience-logo img {
+            width: 100%;
+            max-width: 140px;
+            height: auto;
+            object-fit: contain;
+        }
+
+        .experience-details {
+            flex-grow: 1;
+        }
+
+        .experience-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .experience-role {
+            margin: 0;
+            color: var(--primary);
+            font-size: 1.25rem;
+            font-weight: 700;
+        }
+
+        .experience-date {
+            font-weight: 600;
+            color: var(--secondary);
+            background: var(--light);
+            padding: 0.25rem 0.75rem;
+            border-radius: 15px;
+            font-size: 0.85rem;
+        }
+
+        .experience-company {
+            font-weight: 600;
+            color: #555;
+            margin-top: 0.25rem;
+            margin-bottom: 0.75rem;
+        }
+
+        .experience-desc {
+            margin: 0;
+            color: #333;
+            line-height: 1.6;
+        }
+
 
         .skills-container {
             display: flex;
@@ -413,6 +493,21 @@
                 margin: 0 auto;
             }
 
+            .experience-item {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 1rem;
+            }
+
+            .experience-logo {
+                width: 100%;
+                justify-content: flex-start;
+            }
+
+            .experience-logo img {
+                max-width: 140px;
+            }
+
             /* Header adjustments for tablet */
             header {
                 height: 0 !important;
@@ -526,7 +621,7 @@
     <nav>
         <ul>
             <li><a href="#about">About</a></li>
-            <li><a href="#research">Research</a></li>
+            <li><a href="#experience">Work Experience</a></li>
             <li><a href="#publications">Publications</a></li>
             <li><a href="#service">Service</a></li>
         </ul>
@@ -589,6 +684,27 @@
                     </p>
 
                     <p>Feel free to shoot me an email to connect!</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="experience">
+            <h2>Work Experience</h2>
+            <div class="experience-list">
+                <div class="experience-item">
+                    <div class="experience-logo">
+                        <img src="experience/ti_logo.png" alt="Texas Instruments Logo">
+                    </div>
+                    <div class="experience-details">
+                        <div class="experience-header">
+                            <h3 class="experience-role">Machine Learning Research Engineer Intern</h3>
+                            <span class="experience-date">Fall 2026</span>
+                        </div>
+                        <div class="experience-company">Texas Instruments (TI)</div>
+                        <p class="experience-desc">
+                            Developing Agentic LLM pipelines for MEMS design synthesis, simulation, and layout optimization.
+                        </p>
+                    </div>
                 </div>
             </div>
         </section>
